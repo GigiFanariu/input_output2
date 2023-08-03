@@ -4,7 +4,8 @@ public class Main {
         String myName = "Gigi";
         String mySurname = "Fanariu";
 
-        System.out.println(myName +" "+ mySurname);
+        System.out.printf("%s %s%n", myName, mySurname);
+
 
     }
 }
