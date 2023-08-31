@@ -3,6 +3,7 @@ public class PrintYourNameAndSurname {
         String firstName = "Gigi";
         String lastName = "Fanariu";
 
-        System.out.println(firstName +" "+ lastName);
+        System.out.print(firstName + " " + lastName);
+
     }
 }
